@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tern.Api", "src\Tern.Api\Tern.Api.csproj", "{3B7E1A52-94C0-4D1F-A6E3-58F0C2D41B97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tern.Tests", "tests\Tern.Tests\Tern.Tests.csproj", "{C81D6F04-2A7B-4E93-9D15-7B3E0A6F58C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B7E1A52-94C0-4D1F-A6E3-58F0C2D41B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7E1A52-94C0-4D1F-A6E3-58F0C2D41B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7E1A52-94C0-4D1F-A6E3-58F0C2D41B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7E1A52-94C0-4D1F-A6E3-58F0C2D41B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C81D6F04-2A7B-4E93-9D15-7B3E0A6F58C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81D6F04-2A7B-4E93-9D15-7B3E0A6F58C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81D6F04-2A7B-4E93-9D15-7B3E0A6F58C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81D6F04-2A7B-4E93-9D15-7B3E0A6F58C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
